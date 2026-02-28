@@ -12,7 +12,6 @@ public class Steuerung {
 
         System.out.println(b.getModell());
         System.out.println(b.getVerkaufspreis());
-
         
     }
 }

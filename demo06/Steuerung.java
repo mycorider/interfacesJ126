@@ -13,5 +13,10 @@ public class Steuerung {
         System.out.println(b.getModell());
         System.out.println(b.getVerkaufspreis());
         
+        if( b instanceof Verkaufbar){
+
+            System.out.println("Den " + b.getModell() + " kann man kaufen.");
+        }
+
     }
 }

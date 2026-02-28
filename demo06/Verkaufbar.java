@@ -1,4 +1,4 @@
-package interfacesJ126.demo05;
+package interfacesJ126.demo06;
 
 public interface Verkaufbar{
 
